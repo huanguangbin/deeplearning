@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Srcfiles/pyfiles/pytorch-CycleGAN-and-pix2pix-master/pytorch-CycleGAN-and-pix2pix-master/.idea/pytorch-CycleGAN-and-pix2pix-master.iml" filepath="$PROJECT_DIR$/../../../Srcfiles/pyfiles/pytorch-CycleGAN-and-pix2pix-master/pytorch-CycleGAN-and-pix2pix-master/.idea/pytorch-CycleGAN-and-pix2pix-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/split_per_organoid.iml" filepath="$PROJECT_DIR$/.idea/split_per_organoid.iml" />
+    </modules>
+  </component>
+</project>
